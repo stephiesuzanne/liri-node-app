@@ -6,7 +6,7 @@ This application allows the user to make requests for information about concerts
 
 Getting Started
 
-Please ensure the following dependencies have been installed (-npm install):
+Install following dependencies using (-npm install):
 
 axios
 dotenv 
