@@ -2,7 +2,7 @@ LIRI-Bot
 
 About
 
-This application allows the user to make requests for information about concerts, songs, and movies all within the command line. It utilizes the Bands in Town, Spotify, and OMDB API's along with multiple node modules to make such requests possible all from inside the command line. This application was created by Stefan Kashner. Directions on how to use it are below.
+This application allows the user to make requests for information about concerts, songs, and movies all within the command line. It utilizes the Bands in Town, Spotify, and OMDB API's along with multiple node modules to make such requests possible all from inside the command line. 
 
 Getting Started
 
